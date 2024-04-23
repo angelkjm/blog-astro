@@ -66,8 +66,8 @@ title: The title of the post
 author: your name
 pubDatetime: 2024-04-23T05:10:25.191Z
 slug: the-title-of-the-post
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - some
   - example
