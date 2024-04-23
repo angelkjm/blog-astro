@@ -1,16 +1,12 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
-title: Adding new posts in AstroPaper theme
-slug: adding-new-posts-in-astropaper-theme
-featured: true
-draft: false
+title: The title of the post
+pubDatetime: 2022-09-21T05:17:19Z
+draft: true
 tags:
-  - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  - some
+  - example
+  - tags
+description: This is the example description of the example post.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
@@ -68,7 +64,7 @@ Here is the sample frontmatter for a post.
 ---
 title: The title of the post
 author: your name
-pubDatetime: 2022-09-21T05:17:19Z
+pubDatetime: 2024-04-23T05:10:25.191Z
 slug: the-title-of-the-post
 featured: true
 draft: false
@@ -83,6 +79,8 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 ```
 
 ## Adding table of contents
+
+node -e "console.log(new Date().toISOString())"
 
 By default, a post (article) does not include any table of contents (toc). To include toc, you have to specify it in a specific way.
 
