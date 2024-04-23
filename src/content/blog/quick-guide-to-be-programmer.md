@@ -1,9 +1,10 @@
 ---
-title: A quick guide to programming
-pubDatetime: 2024-04-22T00:00:00.000Z
+title: A quick guide to be programmer
+pubDatetime: 2024-04-23T11:00:00.000Z
 draft: false
 featured: true
 tags:
+  - programming
   - tips
   - guides
 description: How you will learn to program, basic guide.
@@ -57,4 +58,5 @@ _It's time for look a job._
 _Now you are Full-Stack_
 
 Here you can start learning what you like, you already had time for seeing what you like, and you also can learn 2 or 3 things at the same time.
-Good luck with your Journey
+
+### **Good luck with your Journey!**

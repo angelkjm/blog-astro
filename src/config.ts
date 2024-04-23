@@ -4,11 +4,11 @@ export const SITE: Site = {
   website: "https://salomonangel.dev", // replace this with your deployed domain
   author: "Angel Salomon",
   desc: "Non-programmer focused blog.",
-  title: "Angel Salomon",
+  title: "The programming book",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 8,
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  scheduledPostMargin: 60 * 60 * 1000, // 60 minutes
 };
 
 export const LOCALE = {
