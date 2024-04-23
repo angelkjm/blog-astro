@@ -107,4 +107,6 @@ Logical operators are used to perform logical operations on boolean values. They
 
 Usually the languages has another type of operators, but this types are the most common
 
-Wait for the next update of this article, or
+Next Update: Coming soon
+
+Waitf for the part two. We will explore control structures in programming languages. Keep an eye out for the link to the next part of our series!

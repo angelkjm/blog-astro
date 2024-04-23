@@ -1,5 +1,5 @@
 ---
-title: A quick guide to be programmer PT1
+title: A quick guide to be programmer
 pubDatetime: 2024-04-22T07:00:00.000Z
 draft: false
 featured: true
