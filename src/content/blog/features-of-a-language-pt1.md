@@ -1,8 +1,8 @@
 ---
 title: Features of a language PT 1
-pubDatetime: 2024-04-23T07:00:00.000Z
+pubDatetime: 2024-04-23T07:00:00Z
 draft: false
-featured: true
+featured: false
 tags:
   - programming
   - tips
@@ -107,6 +107,4 @@ Logical operators are used to perform logical operations on boolean values. They
 
 Usually the languages has another type of operators, but this types are the most common
 
-Next Update: Coming soon
-
-Waitf for the part two. We will explore control structures in programming languages. Keep an eye out for the link to the next part of our series!
+[Part 2](/posts/features-of-a-language-pt2)
