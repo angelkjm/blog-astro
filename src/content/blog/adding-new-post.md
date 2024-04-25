@@ -2,7 +2,7 @@
 title: The title of the post
 pubDatetime: 2024-04-21T07:00:00Z
 modDatetime: 2024-04-23T6:40:00Z
-featured: true
+featured: false
 draft: true
 tags:
   - some

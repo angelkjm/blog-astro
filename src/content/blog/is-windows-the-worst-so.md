@@ -1,6 +1,6 @@
 ---
 title: Is windows the worst option for you?
-pubDatetime: 2024-04-24T07:00:00Z
+pubDatetime: 2024-04-25T07:00:00Z
 draft: false
 featured: true
 tags:
@@ -65,4 +65,8 @@ The performance will always depend on what are you doing, Windows is the best fo
 
 ## Security
 
-Working on it!
+Even tough on internet nothing is secure, Linux is the best system based on security, is open source, the user not have access to the system files, only when you authorize with the password, and most of programs are open-source, be open-source is not a waranty, but most of people know more about technologie than the average, and the virus are less common in Linux, that's why is used for about the 90% of the servers in the world, the hackers uses linux for working.
+
+About Mac-Os y Windows, Mac-Os is more closed than windows but does not mean is secure, only is restricted to install whatever what you want and change configurations that can risk your device. So it's a draw even though windows is more insecure than Mac-Os.
+
+Linux is the best option if you are programmer. In all the aspects, only if you want to play Windows could be a better option. _Give you a chance to use Linux_ and you never regret.
