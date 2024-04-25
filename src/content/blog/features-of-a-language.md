@@ -2,7 +2,7 @@
 title: Features of a language
 pubDatetime: 2024-04-23T07:00:00Z
 draft: false
-featured: true
+featured: false
 tags:
   - programming
   - tips

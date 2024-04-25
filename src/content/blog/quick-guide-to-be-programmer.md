@@ -2,7 +2,7 @@
 title: A quick guide to be web programmer
 pubDatetime: 2024-04-22T07:00:00Z
 modDatetime: 2024-04-24T00:00:00Z
-draft: false
+draft: true
 featured: true
 tags:
   - tips
@@ -11,6 +11,8 @@ description: You want to be a web developer? Here is the basic guide to become o
 ---
 
 ## How you should begin to program?
+
+Aim high, and if you fail, you still going to do prety well. If your goals are mediocres you won't be succesfull.
 
 Is not easy to learn something new, and it will depends if you want learn that for working, like a hobbie or just for curiousity. But we will supose you want earn money with programming, the first tip is practice. _You need to take action now._\
 First, you will need a first language for learn, If you like the design or you want to be Front-end, I fully recommend you _HTML, CSS & JavaScript_, and if you want to be back-end _PHP, Python or JavaScript as well_. You need to know in what area you want to specialize, because the best paid works are in a very very specific work.

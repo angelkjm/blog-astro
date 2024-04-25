@@ -2,6 +2,7 @@
 title: Is windows the worst option for you?
 pubDatetime: 2024-04-24T07:00:00Z
 draft: false
+featured: true
 tags:
   - so
   - linux
