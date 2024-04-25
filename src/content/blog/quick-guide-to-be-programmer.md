@@ -1,7 +1,7 @@
 ---
 title: A quick guide to be web programmer
 pubDatetime: 2024-04-22T07:00:00Z
-modDatetime: 2024-04-24T24:00:00Z
+modDatetime: 2024-04-24T00:00:00Z
 draft: false
 featured: true
 tags:

@@ -3,12 +3,12 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://blog.salomonangel.dev/", // replace this with your deployed domain
   author: "Angel Salomon",
-  desc: "The programming book is an open source blog made to help you in your programming journey. ",
-  title: "The programming book",
+  desc: "My blog was made for helping you in your programming journey. ",
+  title: "ASBlog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 8,
-  scheduledPostMargin: 60 * 60 * 1000, // 60 minutes
+  postPerPage: 4,
+  scheduledPostMargin: 10 * 60 * 1000, // 10 minutes
 };
 
 export const LOCALE = {

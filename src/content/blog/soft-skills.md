@@ -23,3 +23,5 @@ Being self-taught is a hallmark of successful individuals across industries. It'
 ### Adaptability
 
 In today's dynamic world, adaptability has emerged as a key attribute for success. With rapid technological advancements, economic shifts, and global uncertainties, individuals and organizations must embrace change with agility and resilience. Adaptability encompasses the willingness to pivot strategies, embrace new methodologies, and navigate unfamiliar terrain with confidence. Those who can adapt quickly to evolving circumstances not only survive but thrive in the face of adversity. It requires the correct mindset, where challenges are viewed as opportunities for growth, and failures are seen as stepping stones toward success. Cultivating adaptability involves fostering a mindset of flexibility, continuous learning, and a willingness to step out of one's comfort zone.
+
+And that's it! Thoose 3 soft skills are the most important for a programmer, you need to be _independent, resolutive and versatile_ reach your goals as a programmer.
